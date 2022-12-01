@@ -17,6 +17,6 @@ if (a>b)
 }
 else
 {
-    Console.WriteLine("Минимальное число: "+ a);
-    Console.WriteLine("Максимальное число: " + b);  
+    Console.WriteLine("Максимальное число: " + b);
+    Console.WriteLine("Минимальное число: "+ a);  
 }
